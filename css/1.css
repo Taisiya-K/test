@@ -1,0 +1,13 @@
+body{
+    background: url(../img/background.jpg) lightgoldenrodyellow repeat-x bottom ;
+}
+.bold{
+    font-weight: bold;
+}
+ul{
+    list-style-type: lower-roman;
+}
+.color{
+    color: darkblue;
+    font-size: 2rem;
+}
